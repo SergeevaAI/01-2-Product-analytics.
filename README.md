@@ -1,1 +1,1 @@
-# lab_2
+# 01-2 Product analytics.
